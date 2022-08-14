@@ -1,7 +1,7 @@
-@use "../App.scss";
+@import "../App.scss";
 
 .header {
     height: 50px;
     width: 100%;
-    // background-color: $themeColorDark;
+    background-color: $themeColorDark;
 }
